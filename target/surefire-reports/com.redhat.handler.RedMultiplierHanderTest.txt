@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.redhat.handler.RedMultiplierHanderTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.083 sec <<< FAILURE! - in com.redhat.handler.RedMultiplierHanderTest
+testMultiplierResult(com.redhat.handler.RedMultiplierHanderTest)  Time elapsed: 0.009 sec  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at org.junit.Assert.fail(Assert.java:88)
+	at com.redhat.handler.RedMultiplierHanderTest.testMultiplierResult(RedMultiplierHanderTest.java:11)
+
